@@ -1,0 +1,1 @@
+This script will assemble the PNG file pieces in the file_pieces directory into all the possible different images.
